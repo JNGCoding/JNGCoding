@@ -24,7 +24,7 @@ Welcome to my corner of GitHub! I'm a passionate programmer who thrives on build
 Even though I haven’t uploaded most of my work yet, here are some of the projects I’ve built or am currently working on:
 
 - 🎥 **Java Screen Recorder**  
-  A lightweight desktop screen recorder built from scratch using Java.
+  A lightweight desktop screen recorder built using Java and JCodec.
 
 - 📈 **Real-Time Graphing Software (Python)**  
   Dynamically updates graphs based on live changes to mathematical equations.
