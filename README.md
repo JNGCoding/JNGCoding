@@ -39,7 +39,8 @@ Even though I haven’t uploaded most of my work yet, here are some of the proje
   Smart relay control based on sensor data and user input—IoT meets intelligence.
 
 - 🧠 **My Own Programming Language**
-  Designed and implemented a custom programming language in Python, now being re-engineered in   C for better performance and lower-level control. This project reflects my deep interest in    language design, parsing, and compiler theory.
+  Designed and implemented a custom programming language in Java, is built for people who wants to learn programming basics but doesn't understand the syntax of High-level languages like python, Java, etc.
+  My language follows a basic syntax - each line is a seperate instruction which the interpreter will perform actions to accordingly.
 
 ---
 
