@@ -19,9 +19,9 @@ Welcome to my corner of GitHub! I'm a passionate programmer who thrives on build
 
 ---
 
-## 🧪 Projects I'm Proud Of
+## 🛠️ Projects I've Built (or Am Building)
 
-Even though I haven’t uploaded most of my work yet, here are some of the projects I’ve built or am currently working on:
+Even though I haven’t uploaded most of my work yet, here’s a sneak peek:
 
 - 🎥 **Java Screen Recorder**  
   A lightweight desktop screen recorder built using Java and JCodec.
@@ -38,9 +38,18 @@ Even though I haven’t uploaded most of my work yet, here are some of the proje
 - 🏠 **Home Automation with ESP8266**  
   Smart relay control based on sensor data and user input—IoT meets intelligence.
 
-- 🧠 **My Own Programming Language**  
-  Designed and implemented a custom programming language in Java, is built for people who wants to learn programming basics but doesn't understand the syntax of High-level languages like python, Java, etc.
-  My language follows a basic syntax - each line is a seperate instruction which the interpreter will perform actions to accordingly.
+- 🧠 **My Own Programming Language (Java)**  
+  Designed for beginners who struggle with high-level syntax.  
+  Each line is a standalone instruction interpreted and executed accordingly.
+
+- 📷 **OV7670 Camera Library (TinyGO)**  
+  Built a custom library to interface with the OV7670 camera module using TinyGO.
+
+- 💬 **Java Chat Application**  
+  Peer-to-peer messaging with a clean UI and socket-based communication.
+
+- 🩺 **Health AI Backend (HackCBS 8.0)**  
+  Designed and implemented the backend for a health assistant platform using REST APIs and modular logic.
 
 ---
 
