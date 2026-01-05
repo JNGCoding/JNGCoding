@@ -51,7 +51,7 @@ Even though I haven’t uploaded most of my work yet, here’s a sneak peek:
 - **Health AI Backend (HackCBS 8.0)**  
   Designed and implemented the backend for a health assistant platform using REST APIs and modular logic.
 
-- **Computer Diagnostics and Statistics Monitor**
+- **Computer Diagnostics and Statistics Monitor**  
   Take a look at your CPU, GPU, RAM Usage and their usage graph over time with this project at any time, working with both hardware and software.
 
 ---
