@@ -29,23 +29,10 @@ Even though I haven’t uploaded most of my work yet, here’s a sneak peek:
 - **Real-Time Graphing Software (Python)**  
   Dynamically updates graphs based on live changes to mathematical equations.
 
-- **Custom C++ Parser**  
-  Executes commands at runtime using a custom-built parsing engine.
-
-- **Expression Evaluator in C**  
-  Parses and evaluates expressions like `1+2+3` with precision and speed.
-
-- **Home Automation with ESP8266**  
-  Smart relay control based on sensor data and user input—IoT meets intelligence.
-
-- **My Own Programming Language (Java)**  
-  Designed for beginners who struggle with high-level syntax.  
-  Each line is a standalone instruction interpreted and executed accordingly.
-
 - **OV7670 Camera Library (TinyGO)**  
   Built a custom library to interface with the OV7670 camera module using TinyGO.
 
-- **Java Chat Application**  
+- **Java Chat Application (Internship Project)**
   Peer-to-peer messaging with a clean UI and socket-based communication.
 
 - **Health AI Backend (HackCBS 8.0)**  
