@@ -53,13 +53,5 @@ Even though I haven’t uploaded most of my work yet, here’s a sneak peek:
 - AI / ML
 
 ---
-
-## Let's Connect
-
-If you're into building things from scratch, solving real-world problems, or just geeking out over embedded systems and automation—I'd love to connect!
-
-- DM me on GitHub or drop a comment on any repo once I start uploading.
-- Stay tuned for upcoming uploads—code is coming soon!
-
 ---> _“A skill is not something you read about—it’s something you earn through doing.”_  
 > — Dhruv (@JNGCoding)
