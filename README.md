@@ -41,11 +41,14 @@ Even though I haven’t uploaded most of my work yet, here’s a sneak peek:
 - **Computer Diagnostics and Statistics Monitor**  
   Take a look at your CPU, GPU, RAM Usage and their usage graph over time with this project at any time, working with both hardware and software.
 
+- **DLang interpreter**  
+  MVP for my interpreted language, DLang.
+
 ---
 
 ## What I'm Learning
-- Real-time systems optimization  
-- Mobile-first architecture with Kotlin  
+- Custom Allocator and optimization techniques  
+- Operating System workings  
 - Hardware-software interfacing for smarter IoT
 - AI / ML
 
