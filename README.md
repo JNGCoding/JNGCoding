@@ -7,8 +7,11 @@ Hey there, Welcome to my profile on Github. I'm a passionate programmer, I build
 ## About Me
 
 - **Languages I Work With**:  
-  C / C++ • Java • Python • Go • Kotlin (for mobile development)
+  C / C++ • Java • Python • Go
 
+- **Languages I am Learning**:
+  Zig • Kotlin
+  
 - **Fields of Interest**:  
   Software Development • Embedded Systems • Game Development • Automation • Real-Time Systems
 
